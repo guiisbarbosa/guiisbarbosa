@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">...atualmente focado em me tornar um desenvolvedor Web Fullstack especializado em JavaScript. Tenho uma forte paixão tecnologia. Estou sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades. Meu objetivo é contribuir para projetos inovadores e impactantes na web, criando experiências digitais de alta qualidade.</p>
+<p align="left">...atualmente focado em me tornar um desenvolvedor Web Fullstack especializado em JavaScript. Tenho uma forte paixão por tecnologia. Estou sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades. Meu objetivo é contribuir para projetos inovadores e impactantes na web, criando experiências digitais de alta qualidade.</p>
 
 ###
 
