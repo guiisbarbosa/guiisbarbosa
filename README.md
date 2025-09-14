@@ -55,4 +55,4 @@
 
 ###
 
-![snake gif](https://github.com/guiisbarbosa/guiisbarbosa/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/guiisbarbosa/guiisbarbosa/blob/output/github-contribution-grid-snake-dark.svg)
